@@ -1,3 +1,5 @@
+mysql:
+  passwd: '{cipher}ffef421ac634afe4d01272a18dca99b1eacb83dbab355c782ce84e4bce2c0917'
 test:
   user:
     name: Haima
