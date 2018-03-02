@@ -1,0 +1,5 @@
+mysql:
+  passwd: '{cipher}AQBVCfh64jJ5RIloK1fSox8IH+ovGuxu3OCcseQ6COZWtGmLuiY26kIDvZh7wZareg/XM1FU57YTM8qHM4PIc5Jlj+ElOaDutTt8LSGqn5E1PY4f4NobSQsUpg0URuLD8gv16SW+zz8TT3/+EBwNKkXlwvHwfSsOCiZRG6nQCtErwTC0/Y1TwuKDbcGV4bbZRPFnQZmN/ts6cCRBOVemXpqTSO7ajPk4d8g5SdwT3shYQZRrSnJdueBs5GF0j7dnU4jYVbdIPCTN4T0rZLPeLi+zt7nLLWQITU0JUPhNpz6arluwgOyieG1HodGjQQMhO/VrDCathkFnblbrB7zch/4IHLteW5pwgH5n+Gq3RHqGiGn1tWzLF8mvY7BHTezsysY='
+test:
+  user:
+    name: Haima
