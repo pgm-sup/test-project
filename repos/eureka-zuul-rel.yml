@@ -2,4 +2,4 @@ zuul:
   routes:
     routeTest:
       path: /routTest
-      url: www.baidu.com
+      url: https://www.csdn.net/
