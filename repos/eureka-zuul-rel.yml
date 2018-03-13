@@ -2,4 +2,4 @@ zuul:
   routes:
     routeTest:
       path: /routTest
-      url: http://localhost:15672/
+      url: http:www.163.com
